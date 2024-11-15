@@ -1,0 +1,15 @@
+{
+  "name": "youtubeclone-backend",
+  "version": "1.0.0",
+  "description": "A youtbe clonebackend where every intracion of user get stored",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "backend"
+  ],
+  "author": "Diwakar chaurasiya",
+  "license": "ISC"
+}
